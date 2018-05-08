@@ -1,3 +1,6 @@
+Sainsbury's Web Scrape Exercise
+-------------------------------
+
 This solution is a Gradle project which uses SpringBoot as the Java environment. The Java version is 1.8.
 
 To build and execute the application on a linux box, firstly clone the git repository:
